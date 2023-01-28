@@ -1,2 +1,2 @@
 # curriculum
-Curriculum para aprender fronted
+Curriculum para aprender frontend
