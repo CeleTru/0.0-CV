@@ -3,6 +3,8 @@ body {
     font-size: 12px;
     max-width: 960px;
     margin: auto;
+    background-color: #E7EDED ;
+
 }
 h1 {
     font-size: 3em;
@@ -13,17 +15,23 @@ h1 {
 
 h2 {
     font-size: 1.5em;
-    padding-bottom: 1em;
+    padding-bottom: 0em;
 }
 
 h3 {
-    font-size: 1em;
-    padding-bottom: 1em;
+    font-size: 0.9em;
+    padding-bottom: 0em;
+    color: dimgrey;
 }
 
+h6 {
+    font-size: 2em;
+    padding-bottom: 0em;
+    color: rgb(43, 14, 63);
+}
 main { 
     display: grid;
-    grid-template-columns: 40% 60%;
+    grid-template-columns: 40% 70%;
     margin-top: 3em;
 }
 header {
@@ -45,8 +53,8 @@ p {
 
 hr {
     border: none;
-    background-color: lightgray;
-    height: 1px;
+    background-color: #7C8587;
+    height: 1.5px;
 }
 
 h1, h2, h3 {
